@@ -21,13 +21,37 @@ h2 {
   text-align: center;
 }
 
+#cart-list {
+  text-align: center;
+  margin: 20px auto;
+}
+
 .cart-product-list {
   list-style: none;
   padding: 0;
   margin: 20px auto;
   max-width: 20%;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
   right: 8%;
+}
+
+#cart-list li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.cart-product-list .deleteBuy{
+  background-color: #007BFF;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
 }
 
 /* Style the product list */

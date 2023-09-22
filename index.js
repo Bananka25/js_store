@@ -91,10 +91,6 @@ function editProduct(id) {
   console.log(id);
 }
 
-function buyProduct(id) {
-  console.log(id);
-}
-
 function addProduct() {
   const productName = name.value;
   const productPrice = parseFloat(price.value);
