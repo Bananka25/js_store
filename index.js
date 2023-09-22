@@ -58,12 +58,12 @@ function getProducts() {
         <img src="${product.image}" alt="${product.name}" width="100%"/>
         <strong>${product.name}</strong> - $${product.price}
         <p>${product.description}</p>
-        <button class="delte-button" data-id="${product.id}">Delete</button>
+        <button class="delete-button" data-id="${product.id}">Delete</button>
         <button class="edit-button" data-id="${product.id}">Edit</button>
         <button class="buy-button" data-id="${product.id}">Buy</button>
         `;
 
-        const deleteButton = listItem.querySelector(".delte-button");
+        const deleteButton = listItem.querySelector(".delete-button");
         deleteButton.addEventListener("click", () => {
           deleteProduct(product.id);
         });
@@ -83,11 +83,11 @@ function getProducts() {
     });
 }
 
-function deleteProduct(id) {
+function editProduct(id) {
   console.log(id);
 }
 
-function editProduct(id) {
+function deleteProduct(id) {
   console.log(id);
 }
 

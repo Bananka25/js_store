@@ -81,7 +81,7 @@ h2 {
   color: #666;
 }
 
-#product-list .delte-button{
+#product-list .delete-button{
   background-color: #007BFF;
   color: #fff;
   border: none;
@@ -90,7 +90,7 @@ h2 {
   cursor: pointer;
 }
 
-#product-list .delte-button:hover {
+#product-list .delete-button:hover {
   background-color: #0056b3;
 }
 
