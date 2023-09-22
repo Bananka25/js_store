@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Apple Airpods Pro",
+      "price": 250,
+      "description": "Apple airpods pro headphones for apple users ",
+      "image": "https://iplus.com.ge/images/detailed/6/WWUN_AirPodsPro-2Gen_Q422_PDP_Image_Position-1.jpg",
+      "id": 5
+    },
+    {
+      "name": "Apple Airpods Prond kld lknd nkd",
+      "price": 250,
+      "description": "Apple airpods pro headphones for apple users",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg",
+      "id": 6
+    },
+    {
+      "name": "Akaki Khotcholava",
+      "price": 123,
+      "description": "Test desc",
+      "image": "https://s3.zoommer.ge/zoommer-images/thumbs/0190809_sony-playstation-ps5-825gb_550.jpeg",
+      "id": 7
+    },
+    {
+      "name": "Beats Studio 3 Decade Collection",
+      "price": 120,
+      "description": "The Beats Studio 3 Decade Collection Bluetooth headset is a solution that can be used both for working with sound and for comfortable listening to music, watching movies or exciting games. The model uses the Apple W1 chip and large-diameter dynamic emitters. Thanks to their design, as well as support for a wide frequency range, the model can provide high-quality and detailed sound. Another feature of the headphones is the active noise reduction system, thanks to which you can enjoy your favorite music even in the noisiest room.",
+      "image": "https://c.dns-shop.ru/thumb/st4/fit/wm/0/0/710266087537096da77a8ceb91f72181/0c8e1568f5a0315cef8b29dce355d7b6c40d6134704807025d6dd4014d51a68e.jpg.webp",
+      "id": 8
+    },
+    {
+      "name": "Logitech Pro X Lightspeed",
+      "price": 150,
+      "description": "The Logitech G PRO X wired headset is a powerful gaming headset with a stylish black design and a customizable steel headband. Soft headphones with closed acoustics have a memory effect and are complemented by velor breathable pads. The system supports surround sound in 7:1 format using DTS Headphone:X 2.0 7.1 technology, which allows you to detect the enemy by sound.",
+      "image": "https://avatars.mds.yandex.net/get-mpic/7716311/img_id2803594529453739822.jpeg/orig",
+      "id": 9
+    }
+  ]
+}
